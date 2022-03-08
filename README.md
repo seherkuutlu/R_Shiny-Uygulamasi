@@ -1,2 +1,2 @@
 # R_Shiny-Uygulamasi-
-Bu uygulamada İstatistiksel Analiz dersimin ödev konusunu olan "R- Shiny" hakkında bir çalışma gerçekleştirdim. 
+Bu uygulamada "R- Shiny" kullanarak web arayüzünde bir analiz ortamı oluşturdum.
